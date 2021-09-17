@@ -5,7 +5,7 @@ It is just a test project to demonstrate the usage of Django with your pre-train
 
 ## With Docker:
 1. Open terminal in the project directory
-2. Type command `docker-compose build' and wait for it to complete.
+2. Type command `docker-compose build` and wait for it to complete.
 3. After that just type the command `docker-compose up`
 4. Open your browser & type `127.0.0.1:8080` to use the app & That's it.
 
